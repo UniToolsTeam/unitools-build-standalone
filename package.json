@@ -1,0 +1,26 @@
+{
+  "displayName": "UniTools.Build.Standalone",
+  "name": "com.unitools.build.standalone",
+  "version": "0.0.1-preview",
+  "unity": "2019.1",
+  "description": "Part of the Customizable Build Pipeline tool for the Standalone (PC, Mac & Linux) build targets",
+  "keywords": [
+    "standalone",
+    "PC",
+    "Mac",
+    "Linux",
+    "build",
+    "unity3d",
+    "ci-cd",
+    "build-tool",
+    "ci-cd-pipeline",
+    "unity-tool"
+  ],
+  "category": "Libraries",
+  "type": "library",
+  "dependencies": {
+    "com.unitools.cli": "0.0.1-preview",
+    "com.unitools.io": "0.0.1-preview",
+    "com.unitools.build": "0.0.1-preview"
+  }
+}
