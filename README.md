@@ -1,3 +1,5 @@
+# This tool is legacy and not supported anymore, please use [UniTools Build](https://github.com/UniToolsTeam/unitools-build)
+
 # UniTools Build Standalone
 This packages helps to build standalone targets (Windows, Mac, Linux).
 
